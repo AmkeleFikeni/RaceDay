@@ -1,30 +1,55 @@
-# RaceDay
-## Project Description
 
-RaceDay is an event management system designed to manage running,
-walking and cycling events. The system allows Organisers to create
-and manage events, categories and participant results, while
-Participants can register, enrol in events and view their results.
+# RaceDay 
 
-## User Roles
+## Part 1 – System Planning and Database
 
-### Organiser
+## Student Information
 
-Organisers can create, update and delete events, manage event
-categories, view enrolments and record participant results.
+| Details | Information |
+| **Student Name** | [Enter Your Full Name] |
+| **Student Number** | [Enter Student Number] |
+| **Module** | [Enter Module Code and Name] |
+| **Project Name** | RaceDay Event Management System |
+| **Assessment Part** | Part 1 – System Planning and Database |
 
-### Participant
+---
 
-Participants can view events, select event categories, enrol in
-events and view their own results.
+# 1. Project Overview
 
-## Part 1 Documentation
+RaceDay is an event management system designed to support the planning and management of running, walking and cycling events.
 
-The /docs folder contains:
+The system is designed around two primary user roles: **Organisers** and **Participants**.
 
-- RaceDay ERD
-- API Endpoint Plan
-- SQL Database Script
+Organisers are responsible for managing events, event categories, participant enrolments and race results. Participants can register for the system, maintain their own profile, view available events and categories, enrol in events and view their own results.
+
+Part 1 establishes the technical foundation of the RaceDay system before application development begins. It consists of three main components:
+
+1. **Section A – Entity Relationship Diagram (ERD)**
+2. **Section B – API Endpoint Plan**
+3. **Section C – SQL Database Script**
+
+The planning documents and SQL script are stored in the `/docs` folder of this GitHub repository.
+
+---
+
+# 2. Part 1 Objectives
+
+The objectives of Part 1 are to:
+
+- Design a relational database for the RaceDay system.
+- Identify the entities, attributes and relationships required by the system.
+- Clearly define primary keys and foreign keys.
+- Define cardinalities between related entities.
+- Plan the RESTful API endpoints before implementation.
+- Define the HTTP methods, routes, roles, request bodies and expected responses.
+- Create the SQL Server database schema.
+- Populate the database with realistic sample data.
+- Apply database constraints to support data integrity.
+- Demonstrate role-based system planning.
+- Use GitHub for version control.
+- Use GitHub Actions to validate the required repository structure.
+- Document the planning process clearly.
+
 
 ## Database
 
