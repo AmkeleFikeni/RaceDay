@@ -73,13 +73,6 @@ The API endpoint plan covers:
 - Event enrolments
 - Results
 
-## CI/CD
-
-GitHub Actions is used to validate that the required Part 1
-documentation exists inside the /docs folder.
-
-[INSERT GREEN BUILD SCREENSHOT HERE]
-
 ## Demonstration Video
 
 YouTube video:
