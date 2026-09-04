@@ -2,18 +2,6 @@
 # RaceDay 
 
 ## Part 1 – System Planning and Database
-
-## Student Information
-
-| Details | Information |
-| **Student Name** | [Enter Your Full Name] |
-| **Student Number** | [Enter Student Number] |
-| **Module** | [Enter Module Code and Name] |
-| **Project Name** | RaceDay Event Management System |
-| **Assessment Part** | Part 1 – System Planning and Database |
-
----
-
 # 1. Project Overview
 
 RaceDay is an event management system designed to support the planning and management of running, walking and cycling events.
@@ -72,8 +60,3 @@ The API endpoint plan covers:
 - Categories
 - Event enrolments
 - Results
-
-## Demonstration Video
-
-YouTube video:
-[INSERT UNLISTED YOUTUBE LINK HERE]
